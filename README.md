@@ -3,12 +3,12 @@ on the fly.
 
 At this point mostly hacky learning the golang openpgp API.
 
-``
+```
 cd streampgp
 go get     # first time
 make
 ./streampgp
-``
+```
 
 Possible applications
 
