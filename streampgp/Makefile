@@ -1,0 +1,4 @@
+
+streampgp: *.go
+	go build
+
